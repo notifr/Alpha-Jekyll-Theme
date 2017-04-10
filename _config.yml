@@ -1,8 +1,8 @@
-name: Alpha
-description: Alphs template for Jekyll
-baseurl: '/learnx-site'
+name: LearnX by Checkin101
+description: LearnX are fun workshops for kids on coding and business.
+baseurl: '/'
 
-url: "https://notifr.github.io"
+url: "http://learnx.co.nz"
 
 paginate: 10
 
